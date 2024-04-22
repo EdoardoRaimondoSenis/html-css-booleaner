@@ -38,13 +38,19 @@ main ul {
 
 main table {
     border-collapse: collapse;
+
 }
 
 #fontbianco {
     color: white;
     background-color: deepskyblue;
+    width: 50px;
+}
+
+.colsmall {
+    width: 20%;
 }
 
 .sfondoceleste {
-    background-color: aquamarine;
+    background-color: rgba(30, 143, 255, 0.384);
 }
