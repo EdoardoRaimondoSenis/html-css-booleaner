@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url(img/pattern.png);
+    background-color: cornflowerblue;
+    background-size: 30%;
+}
+
+#logobooleaners {
+    width: 20%;
+    padding-top: 20px;
+}
