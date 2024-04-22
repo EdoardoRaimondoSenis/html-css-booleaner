@@ -35,3 +35,11 @@ main ul {
     font-size: large;
     padding-left: 20px;
 }
+
+#fontbianco {
+    color: white;
+}
+
+.sfondoceleste {
+    background-color: aquamarine;
+}
