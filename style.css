@@ -36,8 +36,13 @@ main ul {
     padding-left: 20px;
 }
 
+main table {
+    border-collapse: collapse;
+}
+
 #fontbianco {
     color: white;
+    background-color: deepskyblue;
 }
 
 .sfondoceleste {
