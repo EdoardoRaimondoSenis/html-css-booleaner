@@ -12,3 +12,16 @@ header {
     width: 20%;
     padding-top: 20px;
 }
+
+main h1 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#fontsize {
+    font-size: 300%;
+}
+
+.fontgrigio {
+    color: gray;
+}
