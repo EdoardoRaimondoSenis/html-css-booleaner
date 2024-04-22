@@ -2,7 +2,7 @@
     margin-top: 0;
 }
 
-
+/* posizionamento logo e immagine di sfondo */
 header {
     background-image: url(img/pattern.png);
     background-color: cornflowerblue;
@@ -29,6 +29,7 @@ main h1 {
 
 .fontnormale {
     font-size: large;
+    padding-top: 15px;
 }
 
 main ul {
@@ -36,6 +37,7 @@ main ul {
     padding-left: 20px;
 }
 
+/* rimosso spazio tra celle */
 main table {
     border-collapse: collapse;
 
@@ -47,10 +49,27 @@ main table {
     width: 50px;
 }
 
+/* distanza celle tabelle */
 .colsmall {
     width: 20%;
 }
 
 .sfondoceleste {
     background-color: rgba(30, 143, 255, 0.384);
+}
+
+/* testo sopra le immagini */
+.contenitore {
+    position: relative;
+    padding-top: 5px;
+}
+
+.testosopra {
+    position: absolute;
+    color: white;
+    padding: 1%;
+}
+
+.fotmon {
+    display: block;
 }
